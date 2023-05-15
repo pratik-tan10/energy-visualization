@@ -7,14 +7,13 @@ This was created using the following steps:
 4. A `streamlit` application with a dropdown for selecting filter variables, checkboxes to filter data based on the filter variables was created.
 5. The filtering was applied using `geopandas` and each point after filtering was added to the map as circle marker with appropriate color, size and popup. This filtering is updated each time the filter variable or checkboxes change.
 
-__View app live at [streamlit cloud]()__
+__View app live at [streamlit cloud](https://pratik-tan10-energy-visualization-filter-map-yl3q7a.streamlit.app/)__
 
 <figure>
   <p><img style = "max-width: 60%;" align = "center" src = 'electricityDashboard.jpg' caption>
   <figcaption>Figure 1: Web application overview.</figcaption>
 </figure>
 
-(https://prdh.shinyapps.io/districtsnepalquiz/).__
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/pratikdh/).
 
